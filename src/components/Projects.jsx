@@ -26,20 +26,20 @@ const projectsData = [
       "A visually appealing clone of Obys agency's landing page, replicating its bold design, unique typography, and smooth scrolling effects. Developed with React and GSAP, it delivers a seamless and interactive experience while maintaining high performance and responsiveness.",
       technologies: ["HTML", "CSS", "JS", "React", "Node", "GSAP","Shery.js"],
   },
-  //{
-  //   image:"/Lazarev.png",
-  //   title: "Lazarev Clone",
-  //   description:
-  //     "Lazarev is a product-based website that uses AI and ML to market and sell.Used HTML, CSS, JavaScript and GSAP (Green Sock Animation Platform).Also Used Web animations to make it look more User-likable. Used JS and React to add Functionalities.",
-  //     technologies: ["HTML", "CSS", "JS", "React", "Node", "GSAP"],
-  // },
-  // {
-  //   image: "/Lazarev.png",
-  //   title: "Lazarev Clone",
-  //   description:
-  //     "Lazarev is a product-based website that uses AI and ML to market and sell.Used HTML, CSS, JavaScript and GSAP (Green Sock Animation Platform).Also Used Web animations to make it look more User-likable. Used JS and React to add Functionalities.",
-  //     technologies: ["HTML", "CSS", "JS", "React", "Node", "GSAP"],
-  // },
+  {
+    image:"/BubbleGame.png",
+    title: "Bubble Game",
+    description:
+      "Bubble Game is a fast-paced puzzle where you shoot and match bubbles to clear the screen.",
+      technologies: ["HTML", "CSS", "JS"],
+  },
+  {
+    image: "/CountryFind.png",
+    title: "Country Find",
+    description:
+      "CountryFind is a simple application that allows users to search for and discover information about countries around the world.",
+      technologies: ["HTML", "CSS", "JS", "React"],
+  },
 ];
 
 const ScrollReveal = ({children}) =>{
