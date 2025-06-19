@@ -29,6 +29,7 @@ const projectsData = [
   {
     image:"/BubbleGame.png",
     title: "Bubble Game",
+    link:"https://jits10.github.io/BubbleGame/",
     description:
       "Bubble Game is a fast-paced puzzle where you shoot and match bubbles to clear the screen.",
       technologies: ["HTML", "CSS", "JS"],
@@ -36,8 +37,8 @@ const projectsData = [
   {
     image: "/CountryFind.png",
     title: "Country Find",
-    description:
-      "CountryFind is a simple application that allows users to search for and discover information about countries around the world.",
+    link:"https://country-find-ashen.vercel.app/",
+    description:"CountryFind is a simple application that allows users to search for and discover information about countries around the world.",
       technologies: ["HTML", "CSS", "JS", "React"],
   },
 ];
